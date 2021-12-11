@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is **Rafał Szymański** and I'm IT Student from Poland. I live in Gdańsk where I'm looking for my first professional experience as Java Developer.
+My name is **Rafał Szymański** and Comming soon..
 
 ## 🔧 Technologies & Tools
 
